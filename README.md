@@ -8,12 +8,12 @@ The demo page is hosted at: [https://GiantAILab.github.io/YingMusic-Singer-demo/
 
 ## 🤗 Model Weights
 
-- **Hugging Face**: [https://huggingface.co/GiantAI/YingMusic-Singer](https://huggingface.co/GiantAI/YingMusic-Singer)
+- **Hugging Face**: [https://huggingface.co/GiantAILab/YingMusic-Singer](https://huggingface.co/GiantAILab/YingMusic-Singer)
 - **ModelScope**: [https://modelscope.cn/models/GiantAI/YingMusic-Singer](https://modelscope.cn/models/GiantAI/YingMusic-Singer)
 
 ## 📝 About the Paper
 
-Singing voice synthesis (SVS) has seen significant progress with the advent of deep learning. This paper provides a side-by-side comparison of various state-of-the-art neural SVS models. We evaluate these models on a diverse set of songs, focusing on melody accuracy, lyrical clarity, and overall naturalness.
+This is the demo page for the paper: [**"YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance"**](https://arxiv.org/pdf/2512.04779).
 
 ## 🎧 Audio Samples
 
