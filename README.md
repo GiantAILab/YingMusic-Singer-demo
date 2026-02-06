@@ -1,10 +1,15 @@
-# Singing Voice Synthesis Demo Page
+# YingMusic-Singer Demo Page
 
-This is the demo page for the paper: **"Singing Voice Synthesis: A Comprehensive Evaluation of Neural Models"**.
+This is the demo page for the paper: **"YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance"**.
 
 ## 🌐 Live Demo
 
 The demo page is hosted at: [https://GiantAILab.github.io/YingMusic-Singer-demo/](https://GiantAILab.github.io/YingMusic-Singer-demo/)
+
+## 🤗 Model Weights
+
+- **Hugging Face**: [https://huggingface.co/GiantAI/YingMusic-Singer](https://huggingface.co/GiantAI/YingMusic-Singer)
+- **ModelScope**: [https://modelscope.cn/models/GiantAI/YingMusic-Singer](https://modelscope.cn/models/GiantAI/YingMusic-Singer)
 
 ## 📝 About the Paper
 
