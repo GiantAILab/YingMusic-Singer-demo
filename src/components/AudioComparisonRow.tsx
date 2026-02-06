@@ -8,11 +8,18 @@ import { TagButton, TagBadge, type TagValue } from './TagButton';
 interface AudioComparisonRowProps {
   item: AudioItem;
   index: number;
-  tags: Record<string, TagValue>;
-  onTagChange: (variantKey: string, value: TagValue) => void;
+  tags?: Record<string, TagValue>;
+  onTagChange?: (variantKey: string, value: TagValue) => void;
+  showTagging?: boolean;
 }
 
-export const AudioComparisonRow: React.FC<AudioComparisonRowProps> = ({ item, index, tags, onTagChange }) => {
+export const AudioComparisonRow: React.FC<AudioComparisonRowProps> = ({ 
+  item, 
+  index, 
+  tags = {}, 
+  onTagChange,
+  showTagging = false
+}) => {
   const { uuid, ...variants } = item;
 
   const gtData = variants['melody_GT'];
@@ -40,7 +47,7 @@ export const AudioComparisonRow: React.FC<AudioComparisonRowProps> = ({ item, in
           <h3 className="text-base font-semibold text-slate-800 font-mono">{uuid}</h3>
         </div>
         <div className="flex items-center gap-3 text-xs text-slate-400">
-          {taggedCount > 0 && (
+          {showTagging && taggedCount > 0 && (
             <span className="px-2 py-1 bg-indigo-50 text-indigo-600 rounded-lg font-medium">
               {taggedCount}/{sortedKeys.length} tagged
             </span>
@@ -67,7 +74,7 @@ export const AudioComparisonRow: React.FC<AudioComparisonRowProps> = ({ item, in
                 className={`rounded-xl p-4 transition-all duration-200 relative ${
                   isGt 
                     ? 'bg-gradient-to-br from-indigo-50 to-purple-50 border-2 border-indigo-200 shadow-sm' 
-                    : currentTag 
+                    : showTagging && currentTag 
                       ? currentTag === 'good' 
                         ? 'bg-emerald-50/50 border-2 border-emerald-200' 
                         : currentTag === 'bad'
@@ -91,11 +98,11 @@ export const AudioComparisonRow: React.FC<AudioComparisonRowProps> = ({ item, in
                       )}
                       {isGt ? 'Ground Truth' : key}
                     </span>
-                    {!isGt && <TagBadge value={currentTag} />}
+                    {showTagging && !isGt && <TagBadge value={currentTag} />}
                   </div>
                   
                   {/* Tag Button - only show for non-GT variants */}
-                  {!isGt && (
+                  {showTagging && !isGt && onTagChange && (
                     <TagButton 
                       value={currentTag} 
                       onChange={(value) => onTagChange(key, value)} 

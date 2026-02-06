@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: './',
   plugins: [
     react(),
     // Plugin to handle SPA fallback for nested routes
@@ -27,6 +28,6 @@ export default defineConfig({
     }
   ],
   server: {
-    port: 30767,
+    port: 8090,
   }
 })
