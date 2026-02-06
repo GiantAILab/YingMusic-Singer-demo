@@ -9,7 +9,7 @@ The demo page is hosted at: [https://GiantAILab.github.io/YingMusic-Singer-demo/
 ## 🤗 Model Weights
 
 - **Hugging Face**: [https://huggingface.co/GiantAILab/YingMusic-Singer](https://huggingface.co/GiantAILab/YingMusic-Singer)
-- **ModelScope**: [https://modelscope.cn/models/GiantAI/YingMusic-Singer](https://modelscope.cn/models/GiantAI/YingMusic-Singer)
+- **ModelScope**: [https://www.modelscope.cn/models/giantailab/YingMusic-Singer/](https://www.modelscope.cn/models/giantailab/YingMusic-Singer/)
 
 ## 📝 About the Paper
 

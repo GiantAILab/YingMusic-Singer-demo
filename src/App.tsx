@@ -34,7 +34,7 @@ const PAPER_INFO = {
     { label: "Hugging Face", url: "https://huggingface.co/GiantAILab/YingMusic-Singer", icon: (
       <span className="text-lg">🤗</span>
     )},
-    { label: "ModelScope", url: "https://modelscope.cn/models/GiantAI/YingMusic-Singer", icon: (
+    { label: "ModelScope", url: "https://www.modelscope.cn/models/giantailab/YingMusic-Singer/", icon: (
       <span className="text-lg">🤖</span>
     )}
   ]
@@ -139,7 +139,7 @@ function App() {
 
       <footer className="bg-white border-t border-slate-200 py-12 mt-20">
         <div className="max-w-[1400px] mx-auto px-6 text-center text-slate-500 text-sm">
-          <p>© {new Date().getFullYear()} Singing Voice Synthesis Demo Page. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} YingMuisc-Singer Demo Page. All rights reserved.</p>
         </div>
       </footer>
     </div>
