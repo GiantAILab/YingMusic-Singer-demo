@@ -35,10 +35,7 @@ const PAPER_INFO = {
       <span className="text-lg">🤗</span>
     )},
     { label: "ModelScope", url: "https://modelscope.cn/models/GiantAI/YingMusic-Singer", icon: (
-      <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 32 32">
-        <path d="M16 4L6 9.75v11.5L16 27l10-5.75v-11.5L16 4zm8 16.25L16 24.5l-8-4.25v-9L16 7l8 4.25v9z"/>
-        <path d="M16 11l-5 2.75v5.5L16 22l5-2.75v-5.5L16 11zm3 7.25L16 20l-3-1.75v-3.5L16 13l3 1.75v3.5z"/>
-      </svg>
+      <span className="text-lg">🤖</span>
     )}
   ]
 };
