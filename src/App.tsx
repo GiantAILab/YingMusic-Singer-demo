@@ -6,9 +6,14 @@ import { PaperHeader } from './components/PaperHeader';
 // Get experiment name from URL path
 function getExperimentName(): string {
   const path = window.location.pathname;
-  // Handle GitHub Pages subpath if necessary
-  const cleanPath = path.replace(/^\/+|\/+$/g, '').split('/').pop(); 
-  return cleanPath || 'default';
+  const parts = path.replace(/^\/+|\/+$/g, '').split('/');
+  // If we are on GitHub Pages, the first part might be the repo name
+  // If there's only one part and it's not 'default', it might be the repo name or an experiment
+  // For this demo, we'll favor 'default' unless explicitly specified
+  if (parts.length === 0 || (parts.length === 1 && parts[0] === 'YingMusic-Singer-demo') || parts[0] === '') {
+    return 'default';
+  }
+  return parts.pop() || 'default';
 }
 
 const PAPER_INFO = {
