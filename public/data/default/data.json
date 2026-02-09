@@ -1,55 +1,1561 @@
 {
-  "demo_song_001": [
+  "female__Rnb_Funk__下等马_seg_0": [
     {
       "melody_GT": {
-        "wav": "/audio/demo_song_001_melody_GT_original.mp3",
-        "lyrics": "Yesterday, all my troubles seemed so far away. Now it looks as though they're here to stay. Oh, I believe in yesterday. Suddenly, I'm not half the man I used to be. There's a shadow hanging over me. Oh, yesterday came suddenly."
+        "wav": "audio/UniClips/Female/female__Rnb_Funk__下等马_clips/female__Rnb_Funk__下等马_clip_001.wav",
+        "lyrics": "头抬起来，你表情别太奇怪，无大碍。没伤到脑袋，如果我下手太重，私密马赛。习武十载，没下山没谈恋爱，吃光后山七八亩菜，练就这套拳脚，莫以貌取人哉。暮色压台，擂鼓未衰，下一个谁还要来？速来领拜，别耽误我热蒸屉揭盖。"
       }
     },
     {
-      "rebuild_01": {
-        "wav": "/audio/demo_song_001_rebuild_01_v1.wav",
-        "lyrics": "Yesterday, all my troubles seemed so far away. Now it looks as though they're here to stay. Oh, I believe in yesterday. Suddenly, I'm not half the man I used to be. There's a shadow hanging over me. Oh, yesterday came suddenly."
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rnb_Funk__下等马_svs__0.0__27.8.mp3",
+        "lyrics": "头抬起来，你表情别太奇怪，无大碍。没伤到脑袋，如果我下手太重，私密马赛。习武十载，没下山没谈恋爱，吃光后山七八亩菜，练就这套拳脚，莫以貌取人哉。暮色压台，擂鼓未衰，下一个谁还要来？速来领拜，别耽误我热蒸屉揭盖。"
       }
     },
     {
-      "rebuild_02": {
-        "wav": "/audio/demo_song_001_rebuild_02_v2.wav",
-        "lyrics": "Yesterday, all my problems seemed so far away. Now it looks as though they're here to stay. Oh, I believe in yesterday. Suddenly, I'm not half the person I used to be. There's a cloud hanging over me. Oh, yesterday came suddenly."
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rnb_Funk__下等马_svs__0.0__27.8.mp3",
+        "lyrics": "心敞开来，你泪水别太奇怪，会好的。没伤到未来，如果我爱得太深，请原谅我。疗伤十载，没出门没再恋爱，吃光回忆七八亩菜，练就这心坚强，莫以泪洗面哉。曙光压台，希望未衰，新生活谁还要来？速来领爱，别耽误我心扉敞开怀。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rnb_Funk__下等马_svs__0.0__27.8.mp3",
+        "lyrics": "书翻开来，你思路别太滞碍，无大碍。没解出题来，如果我讲得太快，请稍等待。苦读十载，没游玩没谈恋爱，刷光题库七八百页，练就这手解题，莫以题易视之。夜色覆盖，笔尖未衰，下一道谁还要猜？速来解答，别耽误我交卷时间到。"
       }
     }
   ],
-  "demo_song_002": [
+  "female__Rnb_Funk__下等马_seg_1": [
     {
       "melody_GT": {
-        "wav": "/audio/demo_song_002_melody_GT_original.mp3",
-        "lyrics": "Imagine there's no heaven, it's easy if you try. No hell below us, above us only sky. Imagine all the people living for today. Imagine there's no countries, it isn't hard to do. Nothing to kill or die for, and no religion too."
+        "wav": "audio/UniClips/Female/female__Rnb_Funk__下等马_clips/female__Rnb_Funk__下等马_clip_002.wav",
+        "lyrics": "一身的青纱，草柄当头花，牵起我下等马。绣花蹄子脏了，我来擦。系好铜钱挂，鞋底不沾沙。这江湖笑我傻，竟不懂我三分，拙劲破天下。"
       }
     },
     {
-      "rebuild_01": {
-        "wav": "/audio/demo_song_002_rebuild_01_v1.wav",
-        "lyrics": "Imagine there's no heaven, it's easy if you try. No hell below us, above us only sky. Imagine all the people living for today. Imagine there's no countries, it isn't hard to do. Nothing to kill or die for, and no religion too."
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rnb_Funk__下等马_svs__28.1__47.22.mp3",
+        "lyrics": "一身的青纱，草柄当头花，牵起我下等马。绣花蹄子脏了，我来擦。系好铜钱挂，鞋底不沾沙。这江湖笑我傻，竟不懂我三分，拙劲破天下。"
       }
     },
     {
-      "rebuild_02": {
-        "wav": "/audio/demo_song_002_rebuild_02_v2.wav",
-        "lyrics": "Imagine there's no heaven, it's simple if you try. No hell beneath us, above us only sky. Imagine all the people living for today. Imagine there's no borders, it isn't hard to do. Nothing to kill or die for, and no religion too."
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rnb_Funk__下等马_svs__28.1__47.22.mp3",
+        "lyrics": "一身的伤痕，新希望如花，牵起我破碎心。泪眼朦胧了，我来疗。系好回忆结，心田不染尘。这世界笑我痴，竟不懂我痊愈，温柔愈心伤。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rnb_Funk__下等马_svs__28.1__47.22.mp3",
+        "lyrics": "一身白衬衫，手捧红玫瑰，轻轻牵起你的手。笑容如花开了，心沉醉。系好同心结，脚步轻如风。这世界笑我痴，竟不懂爱多深，真情动天地。"
       }
     }
   ],
-  "demo_song_003": [
+  "female__Rock__Show_Slay_Show_seg_0": [
     {
       "melody_GT": {
-        "wav": "/audio/demo_song_003_melody_GT_original.mp3",
-        "lyrics": "We are the champions, my friends. And we'll keep on fighting till the end. We are the champions, we are the champions. No time for losers, 'cause we are the champions of the world."
+        "wav": "audio/UniClips/Female/female__Rock__Show_Slay_Show_clips/female__Rock__Show_Slay_Show_clip_001.wav",
+        "lyrics": "从来没指望有谁能够依赖，在这个空洞凌厉的时代，哦，我的出现似乎让你感到意外。 I'm really sad, I'm really sad for you。感慨你精彩安排，让一切肆无忌惮，偷偷的撒野在镜头之外。"
       }
     },
     {
-      "rebuild_01": {
-        "wav": "/audio/demo_song_003_rebuild_01_v1.wav",
-        "lyrics": "We are the champions, my friends. And we'll keep on fighting till the end. We are the champions, we are the champions. No time for losers, 'cause we are the champions of the world."
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rock__Show_Slay_Show_svs__0.0__31.0.mp3",
+        "lyrics": "从来没指望有谁能够依赖，在这个空洞凌厉的时代，哦，我的出现似乎让你感到意外。 I'm really sad, I'm really sad for you。感慨你精彩安排，让一切肆无忌惮，偷偷的撒野在镜头之外。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rock__Show_Slay_Show_svs__0.0__31.0.mp3",
+        "lyrics": "从来都期待有谁一起嗨皮，在这个欢乐多彩的时代，哦，我的到来让你惊喜开怀。 I'm really glad, I'm really glad for you。感谢你精彩安排，让一切快乐无碍，偷偷的玩耍在镜头之外。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rock__Show_Slay_Show_svs__0.0__31.0.mp3",
+        "lyrics": "始终相信有你能让我依赖，在这个温暖美好的时代，哦，你的到来总是让我心潮澎湃。 I'm really glad, I'm really glad for you。感谢这精彩安排，让快乐无所不在，大方地欢笑在阳光之下。"
+      }
+    }
+  ],
+  "female__Rock__Show_Slay_Show_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Rock__Show_Slay_Show_clips/female__Rock__Show_Slay_Show_clip_002.wav",
+        "lyrics": "幸亏你挑衅姿态，看起来还算不赖。 I wanna say you make me wanna go fight. Stand by，放马过来，拜托交手的时候让我愉快，哎哎。哎哎。Next time，别太乖，出刀之前查好你的破绽。一眼就看穿，不是很浪漫。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rock__Show_Slay_Show_svs__31.2__60.0.mp3",
+        "lyrics": "幸亏你挑衅姿态，看起来还算不赖。 I wanna say you make me wanna go fight. Stand by，放马过来，拜托交手的时候让我愉快，哎哎。哎哎。Next time，别太乖，出刀之前查好你的破绽。一眼就看穿，不是很浪漫。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rock__Show_Slay_Show_svs__31.2__60.0.mp3",
+        "lyrics": "幸好你搞笑姿态，看起来真不赖。 I wanna say you make me wanna play games. Get set，放马过来，拜托玩耍的时候让我嗨皮，哎哎。哎哎。Next time，别太乖，出手之前想好你的玩笑。一眼就戳穿，不是很搞笑？"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rock__Show_Slay_Show_svs__31.2__60.0.mp3",
+        "lyrics": "多亏你友好姿态，看起来让人喜爱。 I wanna say you make me wanna be friends. Come on，携手同行，请求相伴的时候让我开怀，哈哈。哈哈。Next time，别见外，出发之前规划你的旅程。一眼就明白，真的很温暖。"
+      }
+    }
+  ],
+  "female__Neo_Soul__如河_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__如河_clips/female__Neo_Soul__如河_clip_001.wav",
+        "lyrics": "Be like river, go with that, flow with that. No one ever gets you where you're going. Be like river, go with that, flow with that. No one ever gets to where I'm going."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__如河_svs__2.43__21.0.mp3",
+        "lyrics": "Be like river, go with that, flow with that. No one ever gets you where you're going. Be like river, go with that, flow with that. No one ever gets to where I'm going."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__如河_svs__2.43__21.0.mp3",
+        "lyrics": "Be like honey, sweet and slow, let it go. Love will always guide you where you're growing. Be like honey, sweet and slow, let it go. Love will always bring me where I'm glowing."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__如河_svs__2.43__21.0.mp3",
+        "lyrics": "Be like lion, roar out loud, proud and loud. No one ever steals the fire you're holding. Be like lion, roar out loud, proud and loud. No one ever dims the light I'm showing."
+      }
+    }
+  ],
+  "female__Neo_Soul__如河_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__如河_clips/female__Neo_Soul__如河_clip_002.wav",
+        "lyrics": "无惧任何灰尘，不是谁都能不脏的。是沸腾或是寒冷，没有我绕不过去的寂寞。像游荡的灵魂，其实我是有方向的，时间岂能限制了我？"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__如河_svs__21.1__36.3.mp3",
+        "lyrics": "无惧任何灰尘，不是谁都能不脏的。是沸腾或是寒冷，没有我绕不过去的寂寞。像游荡的灵魂，其实我是有方向的，时间岂能限制了我？"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__如河_svs__21.1__36.3.mp3",
+        "lyrics": "轻轻诉说情话，不是谁都能不心动。是甜蜜或是温柔，没有我带来不了的温暖。像漂浮的云朵，其实我是有归宿的，时间岂能限制真爱？"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__如河_svs__21.1__36.3.mp3",
+        "lyrics": "畏惧所有黑暗，谁又能永远纯洁呢？是热烈或是冰冷，总有我无法逃脱的孤独。如迷失的幽魂，其实我早已迷茫了，命运怎能放过我呢？"
+      }
+    }
+  ],
+  "female__Pop_Electronic__twilight_zone_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__twilight_zone_clips/female__Pop_Electronic__twilight_zone_clip_001.wav",
+        "lyrics": "Did I dream the whole thing? Was I just a nightmare? Different dimensions, stuck in the twilight zone. Is this a black and white scene? If so, then I'm in the gray one. Hope you wait for the next actor, 'cause I had you completely wrong."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__twilight_zone_svs__1.5__33.18.mp3",
+        "lyrics": "Did I dream the whole thing? Was I just a nightmare? Different dimensions, stuck in the twilight zone. Is this a black and white scene? If so, then I'm in the gray one. Hope you wait for the next actor, 'cause I had you completely wrong."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__twilight_zone_svs__1.5__33.18.mp3",
+        "lyrics": "Did we build the friendship? Was it just a good time? Sharing every moment, Growing in the bright zone. Is this a colorful scene? If so, then we're in the fun one. Hope we keep our bond forever, 'cause we understand each other."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__twilight_zone_svs__1.5__33.18.mp3",
+        "lyrics": "Did I find the true path? Was it just a daydream? Open highways, driving in the sunrise glow. Is this a bright and new scene? If yes, then I'm on the right road. Hope you join for the next journey, 'cause I see you clearly now."
+      }
+    }
+  ],
+  "female__Pop_Electronic__twilight_zone_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__twilight_zone_clips/female__Pop_Electronic__twilight_zone_clip_002.wav",
+        "lyrics": "Does she know you're not who you say you are? 'Cause I might give her a call, or was I just not me at all? And it's not like I'm still not over you. It's so strange, things I never do. Know that I miss you, I don't. Sometimes I just can't believe you happened."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__twilight_zone_svs__35.46__65.46.mp3",
+        "lyrics": "Does she know you're not who you say you are? 'Cause I might give her a call, or was I just not me at all? And it's not like I'm still not over you. It's so strange, things I never do. Know that I miss you, I don't. Sometimes I just can't believe you happened."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__twilight_zone_svs__35.46__65.46.mp3",
+        "lyrics": "Do they know our friendship's real, through thick and thin? 'Cause we've shared every moment, or was it just a whim at all? And it's true that our bond will always see through. It's so grand, things we always do. Know that I treasure you, I do. Sometimes I just can't believe this friendship grew."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__twilight_zone_svs__35.46__65.46.mp3",
+        "lyrics": "Can you see the sun rising in the east? 'Cause I might climb the highest peak, or was I just too weak to speak? And it's not like I'm afraid to try. It's so grand, things I've never seen. Know that I seek you, I won't. Sometimes I just can't believe the dawn."
+      }
+    }
+  ],
+  "male__Jazz__不开灯俱乐部_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Jazz__不开灯俱乐部_clips/male__Jazz__不开灯俱乐部_clip_001.wav",
+        "lyrics": "Let the killer go, rode a bike and ride a boogie，做一半的梦，剩一只白云苍狗。王老先生说，生命是最奢侈的漂流，漂完才会懂。花罢休，月光它不懂白昼夜太浓，覆水难收。白老太太说，幸福是最美丽的阴谋，带也带不走。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Jazz__不开灯俱乐部_svs__0.0__30.6.mp3",
+        "lyrics": "Let the killer go, rode a bike and ride a boogie，做一半的梦，剩一只白云苍狗。王老先生说，生命是最奢侈的漂流，漂完才会懂。花罢休，月光它不懂白昼夜太浓，覆水难收。白老太太说，幸福是最美丽的阴谋，带也带不走。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Jazz__不开灯俱乐部_svs__0.0__30.6.mp3",
+        "lyrics": "Long live friendship now, share a bike and dance with buddies，做一生的友，留一段友情长久。老朋友常说，友情是最珍贵的拥有，相伴才会懂。笑不休，星光它见证友情永不朽，情深难收。好朋友都说，友情是最温暖的守候，永远在心头。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Jazz__不开灯俱乐部_svs__0.0__30.6.mp3",
+        "lyrics": "Start the engine roar, drive a car and chase a cloud，编一串代码，剩一片数字星空。李工程师说，数据是最珍贵的河流，流完才会通。灯熄灭，电流它不懂黑白界太凶，覆码难修。张程序员说，自由是最简单的计谋，抓也抓不住。"
+      }
+    }
+  ],
+  "male__Rock__浴室_seg_4": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__浴室_clips/male__Rock__浴室_clip_005.wav",
+        "lyrics": "我们都被困在这寂寞的夜晚，阳光照进窗帘，却太过刺眼。过于温暖的冬天，让人失去自觉。波浪在海面上，萤火在岸边，我眼泪流满面，你不在我身边。芒草在山巅，痛苦还留在眉间。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__浴室_svs__83.04__111.54.mp3",
+        "lyrics": "我们都被困在这寂寞的夜晚，阳光照进窗帘，却太过刺眼。过于温暖的冬天，让人失去自觉。波浪在海面上，萤火在岸边，我眼泪流满面，你不在我身边。芒草在山巅，痛苦还留在眉间。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__浴室_svs__83.04__111.54.mp3",
+        "lyrics": "我们都曾走过这些匆匆年华，回忆照进心间，却有些遥远。那些温暖的昨天，让人不禁怀念。时光在流淌间，梦想在眼前，我微笑看从前，你还在我心田。岁月在山巅，美好还留在心间。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__浴室_svs__83.04__111.54.mp3",
+        "lyrics": "我们正迎接这美好的清晨，阳光洒满房间，是如此温暖。恰如其分的春天，让人充满活力。白云在蓝天上，鸟儿在枝头，我笑容绽放脸，梦想在我心间。鲜花在原野，希望已种在心田。"
+      }
+    }
+  ],
+  "male__Hippop_Rap__我想part2_seg_5": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Hippop_Rap__我想part2_clips/male__Hippop_Rap__我想part2_clip_006.wav",
+        "lyrics": "我想呼风唤雨，用奇妙旋律；我想一日千里，踩疯狂节奏；我想遨游四海，让音乐作舟。我想睡在梦里，醒在梦。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Hippop_Rap__我想part2_svs__108.0__128.7.mp3",
+        "lyrics": "我想呼风唤雨，用奇妙旋律；我想一日千里，踩疯狂节奏；我想遨游四海，让音乐作舟。我想睡在梦里，醒在梦。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Hippop_Rap__我想part2_svs__108.0__128.7.mp3",
+        "lyrics": "我想抚平伤痕，用温柔旋律；我想慢慢前行，踏平和节奏；我想穿越心海，让时间作舟。我想眠在往事，醒在新晨。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Hippop_Rap__我想part2_svs__108.0__128.7.mp3",
+        "lyrics": "我想放下执着，让心归平静；我想缓慢生活，品日常滋味；我想驻足此刻，任光阴流逝。我想醒在清晨，梦已散。"
+      }
+    }
+  ],
+  "female__Pop__exile_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop__exile_clips/female__Pop__exile_clip_001.wav",
+        "lyrics": "I can see you staring, honey, like it's just your understudy. Like you get your knuckles bloody for me."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop__exile_svs__0.0__11.61.mp3",
+        "lyrics": "I can see you staring, honey, like it's just your understudy. Like you get your knuckles bloody for me."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop__exile_svs__0.0__11.61.mp3",
+        "lyrics": "I can see the sun rise, honey, like it's just the past receding. Like I've mended all the cracks within me."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop__exile_svs__0.0__11.61.mp3",
+        "lyrics": "I can feel the sunshine, darling, like it's just a morning glory. Like you make my spirit soar for free."
+      }
+    }
+  ],
+  "female__Pop__exile_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop__exile_clips/female__Pop__exile_clip_002.wav",
+        "lyrics": "Sticking through a hundred chances, balancing on breaking branches, losing sight, adding salt to injury."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop__exile_svs__14.73__24.9.mp3",
+        "lyrics": "Sticking through a hundred chances, balancing on breaking branches, losing sight, adding salt to injury."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop__exile_svs__14.73__24.9.mp3",
+        "lyrics": "Finding peace in second chances, growing strong on steady branches, gaining sight, adding love to recovery."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop__exile_svs__14.73__24.9.mp3",
+        "lyrics": "Rising through a morning sunrise, dancing on sparkling waters, finding light, healing all the sorrow."
+      }
+    }
+  ],
+  "female__Pop_Electronic__twilight_zone_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__twilight_zone_clips/female__Pop_Electronic__twilight_zone_clip_003.wav",
+        "lyrics": "It's not like I'd ever change a thing, 'cause I'm right here where I'm meant to be. Not that I told you I want. Sometimes I just can't believe you happened."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__twilight_zone_svs__65.46__82.38.mp3",
+        "lyrics": "It's not like I'd ever change a thing, 'cause I'm right here where I'm meant to be. Not that I told you I want. Sometimes I just can't believe you happened."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__twilight_zone_svs__65.46__82.38.mp3",
+        "lyrics": "It's not like I'd ever lose a friend, 'cause here with friends where I'm meant to be. Glad that I have you, my friend. Sometimes I can't believe our friendship's real."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__twilight_zone_svs__65.46__82.38.mp3",
+        "lyrics": "I wish that I could change it all, 'cause I'm lost here where I don't belong. I never said what I desire. Often I just can't accept you're gone."
+      }
+    }
+  ],
+  "female__Afrobeats__pressure_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_001.wav",
+        "lyrics": "I'm trying to find out all the reasons, all the reasons I'm in my feelings. Find out you're into all my teasin', all the pleasin'. So baby, bring the fire. Ooh, we've got something new. I wanna melt on you. You know just what to do. I know you feel it too."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Afrobeats__pressure_svs__0.0__30.7.mp3",
+        "lyrics": "I'm trying to find out all the reasons, all the reasons I'm in my feelings. Find out you're into all my teasin', all the pleasin'. So baby, bring the fire. Ooh, we've got something new. I wanna melt on you. You know just what to do. I know you feel it too."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Afrobeats__pressure_svs__0.0__30.7.mp3",
+        "lyrics": "I'm sinking in the gloom of reasons, all the reasons for my grieving. Find out you're cause of all my treason, all the seeping. So baby, stir the pyre. Ooh, we've brewed something cruel. I wanna ache on you. You know just how to duel. I know you feel it too."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Afrobeats__pressure_svs__0.0__30.7.mp3",
+        "lyrics": "Striving to reach all my visions, all the missions I hold inside me. Find out you're part of all my scheming, all the dreaming. So baby, light the way. Ooh, we've got dreams to pursue. I wanna fly with you. You know just what to say. I know you'll see it through."
+      }
+    }
+  ],
+  "female__Afrobeats__pressure_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_002.wav",
+        "lyrics": "I know you feel it too. You put that pressure all on me, till I feel it in my knees. All on me, all on me. But I know just what I need. Temperature 100 degrees. All on me, all on me, all on me, all on me. "
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Afrobeats__pressure_svs__31.0__51.0.mp3",
+        "lyrics": "I know you feel it too. You put that pressure all on me, till I feel it in my knees. All on me, all on me. But I know just what I need. Temperature 100 degrees. All on me, all on me, all on me, all on me. "
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Afrobeats__pressure_svs__31.0__51.0.mp3",
+        "lyrics": "I taste the bitter truth. Life piles its pain all on me, till I break down on my knees. All on me, all on me. But I know there's no reprieve. Bitterness that never frees. All on me, all on me, all on me, all on me."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Afrobeats__pressure_svs__31.0__51.0.mp3",
+        "lyrics": "I feel the joy so true. You bring that light all to me, till I dance with heart so free. All for me, all for me. And I know just what I see. Endless sky above. All for me, all for me, all for me, all for me."
+      }
+    }
+  ],
+  "female__Afrobeats__pressure_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_003.wav",
+        "lyrics": "I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure. I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Afrobeats__pressure_svs__51.2__67.8.mp3",
+        "lyrics": "I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure. I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Afrobeats__pressure_svs__51.2__67.8.mp3",
+        "lyrics": "I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. Heartache. I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. Heartache."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Afrobeats__pressure_svs__51.2__67.8.mp3",
+        "lyrics": "I like calmness. I like peace. I like calmness. I like peace. I like calmness. I like peace. I like calmness. Silence. I like calmness. I like peace. I like calmness. I like peace. I like calmness. I like peace. I like calmness. Silence."
+      }
+    }
+  ],
+  "female__Afrobeats__pressure_seg_3": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_004.wav",
+        "lyrics": "I know this seems a little sudden, but you've been testing."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Afrobeats__pressure_svs__67.85__72.66.mp3",
+        "lyrics": "I know this seems a little sudden, but you've been testing."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Afrobeats__pressure_svs__67.85__72.66.mp3",
+        "lyrics": "I know this hurt's a lasting burden, from life's own testing."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Afrobeats__pressure_svs__67.85__72.66.mp3",
+        "lyrics": "I think this life is quite uncertain, but we keep hoping."
+      }
+    }
+  ],
+  "female__Neo_Soul__on_on_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__on_on_clips/female__Neo_Soul__on_on_clip_001.wav",
+        "lyrics": "Oh my my my, I'm feeling high. My mind is gone, I'm all alone. Too much everything, the world keeps turning. Oh what a day, what a day, what a day. Peace and blessings manifest with every listener."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__on_on_svs__2.28__30.2.mp3",
+        "lyrics": "Oh my my my, I'm feeling high. My mind is gone, I'm all alone. Too much everything, the world keeps turning. Oh what a day, what a day, what a day. Peace and blessings manifest with every listener."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__on_on_svs__2.28__30.2.mp3",
+        "lyrics": "Oh my my my, I'm feeling calm. My mind at rest, I'm truly blessed. Gently everything, the world keeps turning. Oh what a day, what a day, what a day. Peace and blessings glow in every listener."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__on_on_svs__2.28__30.2.mp3",
+        "lyrics": "Oh sky so high, I see the sky. The sun has shone, on golden throne. Birds start to sing, the streams are churning. Oh what a sight, what a sight, what a sight. Nature's beauty fills the air with cheer."
+      }
+    }
+  ],
+  "female__Neo_Soul__on_on_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__on_on_clips/female__Neo_Soul__on_on_clip_002.wav",
+        "lyrics": "Even all If it were yours, then it would be worth. If we were making easy matches, and going by our names, most in the end, to not believing about the fear, it's just the same. Ah na na na."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__on_on_svs__31.1__52.02.mp3",
+        "lyrics": "Even all If it were yours, then it would be worth. If we were making easy matches, and going by our names, most in the end, to not believing about the fear, it's just the same. Ah na na na."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__on_on_svs__31.1__52.02.mp3",
+        "lyrics": "Every day if love endures, then it feels so sweet. If we are sharing gentle touches, and whispering our names, soft in the end, without a worry or a fear, it's all so sweet. Ah na na na."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__on_on_svs__31.1__52.02.mp3",
+        "lyrics": "In the morning fresh and new, with the sky so deeply blue. When we walk on paths unknown, under stars that brightly shone, all in the end, to embrace the peace we've found, it's safe and sound. Ah na na na."
+      }
+    }
+  ],
+  "female__Neo_Soul__on_on_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__on_on_clips/female__Neo_Soul__on_on_clip_003.wav",
+        "lyrics": "On and on and on, I go on and on and on, Ooh on and on and on and on."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__on_on_svs__54.48__70.29.mp3",
+        "lyrics": "On and on and on, I go on and on and on, Ooh on and on and on and on."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__on_on_svs__54.48__70.29.mp3",
+        "lyrics": "Calm and slow and deep, I glide calm and slow and deep, Ooh calm and slow and deep and sleep."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__on_on_svs__54.48__70.29.mp3",
+        "lyrics": "Love and love and love, I seek love and love and love, Ooh love and love and love and love."
+      }
+    }
+  ],
+  "male__Rock__浴室_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__浴室_clips/male__Rock__浴室_clip_001.wav",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__浴室_svs__0.0__8.04.mp3",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__浴室_svs__0.0__8.04.mp3",
+        "lyrics": "终于回首这些年时，时光浮现在梦里。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__浴室_svs__0.0__8.04.mp3",
+        "lyrics": "终于挣脱束缚的时候，我飞翔在广阔天空。"
+      }
+    }
+  ],
+  "male__Rock__浴室_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__浴室_clips/male__Rock__浴室_clip_002.wav",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__浴室_svs__17.31__23.4.mp3",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__浴室_svs__17.31__23.4.mp3",
+        "lyrics": "当岁月匆匆流逝时，往事浮现在梦境里。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__浴室_svs__17.31__23.4.mp3",
+        "lyrics": "终于放下过去时，阳光照进我心里。"
+      }
+    }
+  ],
+  "male__Rock__浴室_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__浴室_clips/male__Rock__浴室_clip_003.wav",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__浴室_svs__32.73__38.85.mp3",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__浴室_svs__32.73__38.85.mp3",
+        "lyrics": "当岁月悄然溜走，回忆将你轻拥入怀"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__浴室_svs__32.73__38.85.mp3",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    }
+  ],
+  "male__Rock__浴室_seg_3": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__浴室_clips/male__Rock__浴室_clip_004.wav",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__浴室_svs__44.34__50.4.mp3",
+        "lyrics": "终于忘记你的时候，你出现在我的梦里。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__浴室_svs__44.34__50.4.mp3",
+        "lyrics": "回首流逝的岁月时，往事浮现在我心里。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__浴室_svs__44.34__50.4.mp3",
+        "lyrics": "终于实现梦想时候，成功握在我的手中。"
+      }
+    }
+  ],
+  "female__Rnb__一分之二_seg_4": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Rnb__一分之二_clips/female__Rnb__一分之二_clip_005.wav",
+        "lyrics": "面对那些痕迹，存在的每一天跟每一夜，想要的幸福多么遥远？写下每一页是用了多少年？"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rnb__一分之二_svs__83.46__98.34.mp3",
+        "lyrics": "面对那些痕迹，存在的每一天跟每一夜，想要的幸福多么遥远？写下每一页是用了多少年？"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rnb__一分之二_svs__83.46__98.34.mp3",
+        "lyrics": "回望那些岁月，流逝的每一天和每一夜，梦想的彼岸多么遥远？铭刻每一刻是经过多少年？"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rnb__一分之二_svs__83.46__98.34.mp3",
+        "lyrics": "迎接这片晨曦，翱翔在广阔的天空之间，实现的梦想多么璀璨？创造这辉煌仅在一瞬间！"
+      }
+    }
+  ],
+  "female__Rnb__一分之二_seg_5": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Rnb__一分之二_clips/female__Rnb__一分之二_clip_006.wav",
+        "lyrics": "存在日日夜夜太疲惫，期待填补灵魂的空虚，孤独的感觉像我们的原罪。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rnb__一分之二_svs__100.68__112.38.mp3",
+        "lyrics": "存在日日夜夜太疲惫，期待填补灵魂的空虚，孤独的感觉像我们的原罪。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rnb__一分之二_svs__100.68__112.38.mp3",
+        "lyrics": "岁月日日夜夜太匆匆，回忆填补灵魂的空虚，孤独的岁月像我们的原罪。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rnb__一分之二_svs__100.68__112.38.mp3",
+        "lyrics": "生活日日夜夜不疲惫，梦想点燃灵魂的火焰，欢聚的时光像我们的庆典。"
+      }
+    }
+  ],
+  "male__Unknown__几分之几___seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Unknown__几分之几___clips/male__Unknown__几分之几___clip_001.wav",
+        "lyrics": "记得那天，太阳压着平原，风慢慢吹，没有人掉眼泪，一切好美好到我可以不用说话。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Unknown__几分之几___svs__0.0__23.13.mp3",
+        "lyrics": "记得那天，太阳压着平原，风慢慢吹，没有人掉眼泪，一切好美好到我可以不用说话。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Unknown__几分之几___svs__0.0__23.13.mp3",
+        "lyrics": "回想那年，时光压着窗前，风轻轻吹，没有人再伤悲，一切好静静到我可以慢慢回味。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Unknown__几分之几___svs__0.0__23.13.mp3",
+        "lyrics": "那个夜晚，月亮笼罩山谷，雨轻轻落，泪水悄然滑落，一切太糟糟到我无法停止颤抖。"
+      }
+    }
+  ],
+  "male__Unknown__几分之几___seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Unknown__几分之几___clips/male__Unknown__几分之几___clip_002.wav",
+        "lyrics": "金色的侧脸，踩着全白球鞋，风继续吹，世界继续错页，那么确定，我知道那就是你。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Unknown__几分之几___svs__28.23__50.4.mp3",
+        "lyrics": "金色的侧脸，踩着全白球鞋，风继续吹，世界继续错页，那么确定，我知道那就是你。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Unknown__几分之几___svs__28.23__50.4.mp3",
+        "lyrics": "旧时侧脸，踏着旧日球鞋，年继续走，回忆继续翻页，那么怀念，我知那就是回忆。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Unknown__几分之几___svs__28.23__50.4.mp3",
+        "lyrics": "朝阳的曙光，奔跑在绿茵场，心继续跳，梦想继续起航，那么坚定，我相信那就是光。"
+      }
+    }
+  ],
+  "male__Unknown__几分之几___seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Unknown__几分之几___clips/male__Unknown__几分之几___clip_003.wav",
+        "lyrics": "那一天，你走进了我的生命，谢谢你成为了我的几分之几。闭上眼睛也能看见你，晴朗的南方。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Unknown__几分之几___svs__54.3__81.27.mp3",
+        "lyrics": "那一天，你走进了我的生命，谢谢你成为了我的几分之几。闭上眼睛也能看见你，晴朗的南方。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Unknown__几分之几___svs__54.3__81.27.mp3",
+        "lyrics": "这些年，回忆萦绕在我心间，感谢时光留下的深浅印记。闭上眼往事如影随形，岁月的蓝天。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Unknown__几分之几___svs__54.3__81.27.mp3",
+        "lyrics": "那一季，风吹过了金黄麦田，带走了夏日残留的几分之几。张开手臂拥抱这天地，萧瑟的秋意。"
+      }
+    }
+  ],
+  "femlae__Pop__高空弹跳_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_001.wav",
+        "lyrics": "我快听不到心的声音，要怎么鼓起你的同情？三十的大雨越下就越清醒，说的都听，其实那不是最好的语气。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__0.0__27.5.mp3",
+        "lyrics": "我快听不到心的声音，要怎么鼓起你的同情？三十的大雨越下就越清醒，说的都听，其实那不是最好的语气。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__0.0__27.5.mp3",
+        "lyrics": "我快听不到希望的余音，要怎么唤起你的怜悯？生活的苦雨越下就越寒心，说的都听，其实那是最伤人的语气。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__0.0__27.5.mp3",
+        "lyrics": "我看见山川连绵起伏，要如何描绘这片美景？清晨的微风越吹就越清新，听的都静，其实那是最和谐的音韵。"
+      }
+    }
+  ],
+  "femlae__Pop__高空弹跳_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_002.wav",
+        "lyrics": "我快看不到该往哪去？要怎么忽视你的陷阱？笑得越猖狂，越是提醒应该反省。最亲爱的，对不起，又伤了你的心。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__28.6__54.2.mp3",
+        "lyrics": "我快看不到该往哪去？要怎么忽视你的陷阱？笑得越猖狂，越是提醒应该反省。最亲爱的，对不起，又伤了你的心。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__28.6__54.2.mp3",
+        "lyrics": "我快尝不尽人生苦味？要怎么逃避命运捉弄？活得越挣扎，越是提醒前路坎坷。这人生啊，对不起，又让我心酸。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__28.6__54.2.mp3",
+        "lyrics": "我眼望着那远方星空？要如何追寻我的梦想？跑得越快活，越是感到自由欢畅。挚友啊，谢谢你，共度这快乐时光。"
+      }
+    }
+  ],
+  "femlae__Pop__高空弹跳_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_003.wav",
+        "lyrics": "够不到想要的，只能保持安静。不小心就全磨光了痛，快找不到我是谁。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__54.8__73.89.mp3",
+        "lyrics": "够不到想要的，只能保持安静。不小心就全磨光了痛，快找不到我是谁。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__54.8__73.89.mp3",
+        "lyrics": "抓不住幸福的，只能咀嚼苦涩。岁月不经意磨光了痛，快忘掉了我是谁。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__54.8__73.89.mp3",
+        "lyrics": "追到了梦想的，总是欢欣鼓舞。用心去珍惜了所有爱，快找到真实自我。"
+      }
+    }
+  ],
+  "femlae__Pop__高空弹跳_seg_3": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_004.wav",
+        "lyrics": "每次自我介绍，都像在心上轻轻划一刀，看不出来这该是谁。不管或黑暗的，都在别的次元，我没有感觉。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__76.2__96.36.mp3",
+        "lyrics": "每次自我介绍，都像在心上轻轻划一刀，看不出来这该是谁。不管或黑暗的，都在别的次元，我没有感觉。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__76.2__96.36.mp3",
+        "lyrics": "每次生活煎熬，都像在灵魂深深刺一刀，分不清这痛苦是谁给。不管这人生多苦涩，都在心底里沉淀，我已麻木无感。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__76.2__96.36.mp3",
+        "lyrics": "漫步林间小道，阳光透过树叶轻轻照耀，溪水潺潺流向那远方。微风轻轻吹过来，花香弥漫整个园，心静如止水。"
+      }
+    }
+  ],
+  "male__Rock__山海_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__山海_clips/male__Rock__山海_clip_001.wav",
+        "lyrics": "我看着天真的我自己，出现在没有我的故事里。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__山海_svs__0.0__22.26.mp3",
+        "lyrics": "我看着天真的我自己，出现在没有我的故事里。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__山海_svs__0.0__22.26.mp3",
+        "lyrics": "我看着苦涩的我自己，挣扎在无情的岁月里。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__山海_svs__0.0__22.26.mp3",
+        "lyrics": "我奔向光明的我自己，绽放在充满希望的天空里。"
+      }
+    }
+  ],
+  "male__Rock__山海_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__山海_clips/male__Rock__山海_clip_002.wav",
+        "lyrics": "等待着我的回应。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__山海_svs__25.32__32.34.mp3",
+        "lyrics": "等待着我的回应。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__山海_svs__25.32__32.34.mp3",
+        "lyrics": "忍受着生活的苦。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__山海_svs__25.32__32.34.mp3",
+        "lyrics": "冲破这无尽黑暗。"
+      }
+    }
+  ],
+  "male__Rock__山海_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rock__山海_clips/male__Rock__山海_clip_003.wav",
+        "lyrics": "一个为何至此的原因？"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rock__山海_svs__34.77__44.7.mp3",
+        "lyrics": "一个为何至此的原因？"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rock__山海_svs__34.77__44.7.mp3",
+        "lyrics": "一个苦涩至此的原因？"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rock__山海_svs__34.77__44.7.mp3",
+        "lyrics": "一道划过夜空的流星"
+      }
+    }
+  ],
+  "female__Country__走马_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Country__走马_clips/female__Country__走马_clip_001.wav",
+        "lyrics": "窗外雨都停了，屋里灯还黑着，数着你的冷漠，把玩着寂寞。电话还没拨，已经口渴，为你熬的夜都冷了，输的烟都跑了一个两个，嘲笑我，笑我耳朵失灵的，笑我放你走了，走了走了走了。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Country__走马_svs__0.0__30.0.mp3",
+        "lyrics": "窗外雨都停了，屋里灯还黑着，数着你的冷漠，把玩着寂寞。电话还没拨，已经口渴，为你熬的夜都冷了，输的烟都跑了一个两个，嘲笑我，笑我耳朵失灵的，笑我放你走了，走了走了走了。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Country__走马_svs__0.0__30.0.mp3",
+        "lyrics": "窗外阳光洒了，屋里灯还亮着，数着新的快乐，拥抱着自由。电话已拨通，不再口渴，为自己熬的夜都暖了，旧的情都忘了一个两个，感谢我，笑我心灵醒了的，笑我重新活了，活了活了活了。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Country__走马_svs__0.0__30.0.mp3",
+        "lyrics": "山间风都静了，林间鸟还唱着，数着星辰闪烁，把玩着快乐。旅程还没启，已经心阔，为梦追的光都暖了，赢的笑都聚了一团两团，鼓舞我，笑我心灵苏醒的，笑我拥抱未来了，来了来了来了。"
+      }
+    }
+  ],
+  "female__Country__走马_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Country__走马_clips/female__Country__走马_clip_002.wav",
+        "lyrics": "路人穿街过。和好景只有片刻，森林都会凋落，风吹走云朵。你留给我的迷离扑朔，岁月风干我的执着，我还是把回忆紧握。太多都散落，散落太多，好难过。难过是你走了，走了，走了，走了。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Country__走马_svs__28.8__55.0.mp3",
+        "lyrics": "路人穿街过。和好景只有片刻，森林都会凋落，风吹走云朵。你留给我的迷离扑朔，岁月风干我的执着，我还是把回忆紧握。太多都散落，散落太多，好难过。难过是你走了，走了，走了，走了。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Country__走马_svs__28.8__55.0.mp3",
+        "lyrics": "心灵渐复苏。和伤痛说声再见，希望重新点燃，风吹散泪点。你留给我的教训珍贵，岁月抚平我的伤痕，我终于能微笑向前。太多已释怀，释怀太多，好轻松。轻松是你走了，走了，走了，走了。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Country__走马_svs__28.8__55.0.mp3",
+        "lyrics": "春风轻拂过。和暖阳常伴左右，花朵都会绽放，雨滋润大地。大自然给的美丽色彩，时光浇灌我的希望，我始终把梦想拥抱。美好在聚集，聚集更多，好欢乐。欢乐是春来了，来了，来了，来了。"
+      }
+    }
+  ],
+  "female__Country__走马_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Country__走马_clips/female__Country__走马_clip_003.wav",
+        "lyrics": "过了很久，终于我愿抬头看你。你就在对岸走得好慢，任由我独自在假寐与现实之间两难。过了很久，终于我愿抬头看，你就在对岸等我勇敢，你还是我的，我的，我的，你看。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Country__走马_svs__56.1__82.71.mp3",
+        "lyrics": "过了很久，终于我愿抬头看你。你就在对岸走得好慢，任由我独自在假寐与现实之间两难。过了很久，终于我愿抬头看，你就在对岸等我勇敢，你还是我的，我的，我的，你看。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Country__走马_svs__56.1__82.71.mp3",
+        "lyrics": "过了很久，终于我愿走出阴霾。心已在平静中慢慢醒来，不再在往事里徘徊与伤感。过了很久，终于我愿拥抱现在，心已在未来找到光彩，我已能微笑，面对，面对，你看。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Country__走马_svs__56.1__82.71.mp3",
+        "lyrics": "晨曦初现，终于我愿抬头望天。光就在天际缓缓升起，任由我独自在黑暗与黎明之间徘徊。晨曦初现，终于我愿抬头看，光就在天际等我追寻，它还是亮的，亮的，亮的，你看。"
+      }
+    }
+  ],
+  "female__Pop_Electronic__X_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_001.wav",
+        "lyrics": "Never be a girl. Ah. Thought it wasn't a problem until you started one."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__0.0__11.46.mp3",
+        "lyrics": "Never be a girl. Ah. Thought it wasn't a problem until you started one."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__0.0__11.46.mp3",
+        "lyrics": "Never be afraid. Ah. Believed it was the ending, but healing has begun."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__0.0__11.46.mp3",
+        "lyrics": "Always chase a dream. Ah. Thought it was just a fantasy until you made it real."
+      }
+    }
+  ],
+  "female__Pop_Electronic__X_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_002.wav",
+        "lyrics": "Check you off the list, don't wanna be involved. 'Cause every time we talk, you say it's my fault. Two years have passed and I ain't thought of you at all."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
+        "lyrics": "Check you off the list, don't wanna be involved. 'Cause every time we talk, you say it's my fault. Two years have passed and I ain't thought of you at all."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
+        "lyrics": "Heal the wounds inside, let the past just dissolve. Now I see the clear light, it was not my fault. I've embraced the change, no more tears to fall at all."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
+        "lyrics": "Add you to my dream, always wanna evolve. 'Cause every time we meet, you lift me up, no halt. Two years from now, I'll still recall your call."
+      }
+    }
+  ],
+  "female__Pop_Electronic__X_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_003.wav",
+        "lyrics": "And for the record, baby, I'm the one that let you go. Took your number off my phone, so don't call me no more. And I move on to something better, so just let it go. 'Cause you should know by now, I'll never be your, never be your girl."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
+        "lyrics": "And for the record, baby, I'm the one that let you go. Took your number off my phone, so don't call me no more. And I move on to something better, so just let it go. 'Cause you should know by now, I'll never be your, never be your girl."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
+        "lyrics": "And for the healing, darling, I'm the one who's found my way. Took your shadow from my soul, so I can truly soar. And I'm moving on to better days, so just let it be. 'Cause you should see me now, I'll never look back, never look back, world."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
+        "lyrics": "For the first time, darling, I'm the one who holds you close. Saved your number on my phone, so you can call me anytime. And I believe in something sweeter, so just let it grow. 'Cause you should feel by now, I'll always be your, always be your world."
+      }
+    }
+  ],
+  "female__Bossa_Nova__夜来香_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Bossa_Nova__夜来香_clips/female__Bossa_Nova__夜来香_clip_001.wav",
+        "lyrics": "那南风吹来清凉，那夜莺啼声起唱，月下的花儿都入梦，只有那夜来香吐露着芬芳。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Bossa_Nova__夜来香_svs__0.0__22.0.mp3",
+        "lyrics": "那南风吹来清凉，那夜莺啼声起唱，月下的花儿都入梦，只有那夜来香吐露着芬芳。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Bossa_Nova__夜来香_svs__0.0__22.0.mp3",
+        "lyrics": "那岁月吹来沧桑，那钟声滴答起响，年轮下的故事绵长，只有那记忆吐露着馨香。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Bossa_Nova__夜来香_svs__0.0__22.0.mp3",
+        "lyrics": "那城市喧嚣繁忙，那钟声敲响不停，办公室的灯光都亮着，只有那咖啡香弥漫着疲惫。"
+      }
+    }
+  ],
+  "female__Bossa_Nova__夜来香_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Bossa_Nova__夜来香_clips/female__Bossa_Nova__夜来香_clip_002.wav",
+        "lyrics": "我爱这夜色茫茫，也爱这夜莺歌唱，更爱那花一般的梦，拥着夜来香，闻着夜来香，"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Bossa_Nova__夜来香_svs__23.2__45.0.mp3",
+        "lyrics": "我爱这夜色茫茫，也爱这夜莺歌唱，更爱那花一般的梦，拥着夜来香，闻着夜来香，"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Bossa_Nova__夜来香_svs__23.2__45.0.mp3",
+        "lyrics": "我爱这岁月茫茫，也爱这回忆歌唱，更爱那梦一般的年，拥着旧时光，忆着旧时光，"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Bossa_Nova__夜来香_svs__23.2__45.0.mp3",
+        "lyrics": "我厌这人群熙攘，也厌这车声喧响，更厌那灯红酒绿场，躲着这喧嚣，逃着这喧嚣，"
+      }
+    }
+  ],
+  "female__Bossa_Nova__夜来香_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Bossa_Nova__夜来香_clips/female__Bossa_Nova__夜来香_clip_003.wav",
+        "lyrics": "夜来香，我为你歌唱，夜来香。我为你思量，啊，我为你歌唱，我为你思量。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Bossa_Nova__夜来香_svs__46.2__77.46.mp3",
+        "lyrics": "夜来香，我为你歌唱，夜来香。我为你思量，啊，我为你歌唱，我为你思量。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Bossa_Nova__夜来香_svs__46.2__77.46.mp3",
+        "lyrics": "岁月长，我为岁月歌，岁月长。我为岁月思，啊，我为岁月歌，我为岁月思。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Bossa_Nova__夜来香_svs__46.2__77.46.mp3",
+        "lyrics": "晨光里，我向前奔跑，晨光里。我追逐梦想，啊，我向前奔跑，我追逐梦想。"
+      }
+    }
+  ],
+  "male__Jazz__Just_the_Tow_of_Us_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Jazz__Just_the_Tow_of_Us_clips/male__Jazz__Just_the_Tow_of_Us_clip_001.wav",
+        "lyrics": "I see the crystal raindrops fall, and the beauty of it all is when the sun comes shining through."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Jazz__Just_the_Tow_of_Us_svs__0.0__9.0.mp3",
+        "lyrics": "I see the crystal raindrops fall, and the beauty of it all is when the sun comes shining through."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Jazz__Just_the_Tow_of_Us_svs__0.0__9.0.mp3",
+        "lyrics": "I feel the fading sorrow fall, and the peace within it all is when the heart starts healing through."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Jazz__Just_the_Tow_of_Us_svs__0.0__9.0.mp3",
+        "lyrics": "I hear the distant thunder call, and the terror in my soul is when the shadows start to grow."
+      }
+    }
+  ],
+  "female__Neo_Soul__love_can_fly_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__love_can_fly_clips/female__Neo_Soul__love_can_fly_clip_002.wav",
+        "lyrics": "啦啦啦啦啦，只愿听你说爱我，在我心里慢慢只有你。啦啦啦啦啦，我只愿为你存在，让我牵你的手，是现在和未来。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__love_can_fly_svs__43.44__65.95.mp3",
+        "lyrics": "啦啦啦啦啦，只愿听你说爱我，在我心里慢慢只有你。啦啦啦啦啦，我只愿为你存在，让我牵你的手，是现在和未来。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__love_can_fly_svs__43.44__65.95.mp3",
+        "lyrics": "啦啦啦啦啦，只愿听你说再见，在我心里慢慢只剩痛。啦啦啦啦啦，我只愿为痛苦存在，让我握紧这空手，是现在和悔恨。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__love_can_fly_svs__43.44__65.95.mp3",
+        "lyrics": "飞向远方去，只愿看星空闪烁，在我心中自由地飞翔。飞向远方去，我只愿为梦存在，让我追风而行，从黎明到未来。"
+      }
+    }
+  ],
+  "female__Neo_Soul__love_can_fly_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Neo_Soul__love_can_fly_clips/female__Neo_Soul__love_can_fly_clip_003.wav",
+        "lyrics": "Love can fly, flying to the sky. 因为爱，天空才蔚蓝。 Love can fly, fly to the sky. 只有爱，值得去忍耐。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Neo_Soul__love_can_fly_svs__66.0__103.44.mp3",
+        "lyrics": "Love can fly, flying to the sky. 因为爱，天空才蔚蓝。 Love can fly, fly to the sky. 只有爱，值得去忍耐。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Neo_Soul__love_can_fly_svs__66.0__103.44.mp3",
+        "lyrics": "Pain can rise, rising to the skies. 因为痛，生活才艰难。 Loss can stay, stay in decay. 只有泪，值得去心碎。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Neo_Soul__love_can_fly_svs__66.0__103.44.mp3",
+        "lyrics": "Wind can blow, blowing to the sea. 因为风，海才涌动。 Wind can blow, blow to the sky. 只有风，值得追随。"
+      }
+    }
+  ],
+  "female__Unknown__4ever_in_U_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Unknown__4ever_in_U_clips/female__Unknown__4ever_in_U_clip_001.wav",
+        "lyrics": "哎呦喂，哎呦呦呦喂, forever forever in you. 哎呦喂，哎呦呦呦喂， forever, forever in you. Baby, I tell ya, I've waited up all night just to see your smile. I waited up, yeah."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Unknown__4ever_in_U_svs__0.0__30.0.mp3",
+        "lyrics": "哎呦喂，哎呦呦呦喂, forever forever in you. 哎呦喂，哎呦呦呦喂， forever, forever in you. Baby, I tell ya, I've waited up all night just to see your smile. I waited up, yeah."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Unknown__4ever_in_U_svs__0.0__30.0.mp3",
+        "lyrics": "Oh wow wee, oh wow wow wow wee, having fun with you. Oh wow wee, oh wow wow wow wee, having fun with you. Buddy, I say, I've played all night just to share the joy. I played on, yay!"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Unknown__4ever_in_U_svs__0.0__30.0.mp3",
+        "lyrics": "哎呦喂，哎呦呦呦喂, always always far away. 哎呦喂，哎呦呦呦喂， always, always far away. Buddy, I say, I've struggled all day just to find my way. I struggled on, yeah."
+      }
+    }
+  ],
+  "female__Unknown__4ever_in_U_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Unknown__4ever_in_U_clips/female__Unknown__4ever_in_U_clip_002.wav",
+        "lyrics": "And I hear the doors slam and hear the emotion. Tears like the ocean. I'm waited it, I'm yeah. And I won't go, 'cause I believe in that. Yeah, I believe we got something slow. Let me tell you something true."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Unknown__4ever_in_U_svs__29.3__49.5.mp3",
+        "lyrics": "And I hear the doors slam and hear the emotion. Tears like the ocean. I'm waited it, I'm yeah. And I won't go, 'cause I believe in that. Yeah, I believe we got something slow. Let me tell you something true."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Unknown__4ever_in_U_svs__29.3__49.5.mp3",
+        "lyrics": "And I hear the drums bang and feel the commotion. Cheers like the potion. I'm wading in, I'm yay! And I won't go, 'cause I believe in fun. Yeah, I believe we got something glow. Let me tell you something cool."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Unknown__4ever_in_U_svs__29.3__49.5.mp3",
+        "lyrics": "And I see the engines roar and feel the passion. Stars like the ocean. I've reached it, I'm clear. And I won't quit, 'cause I believe in this. Yeah, I believe we've done something great. Let me tell you something new."
+      }
+    }
+  ],
+  "female__Unknown__4ever_in_U_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Unknown__4ever_in_U_clips/female__Unknown__4ever_in_U_clip_003.wav",
+        "lyrics": "The rhythms of your heart connect to me in a way that I don't understand. I need your hand. The rhythms of your heart, I wanna wanna wanna swim. It's time I know it's kinda strange. It's not the same. "
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Unknown__4ever_in_U_svs__49.9__70.2.mp3",
+        "lyrics": "The rhythms of your heart connect to me in a way that I don't understand. I need your hand. The rhythms of your heart, I wanna wanna wanna swim. It's time I know it's kinda strange. It's not the same. "
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Unknown__4ever_in_U_svs__49.9__70.2.mp3",
+        "lyrics": "The rhythms of the dance get me grooving in a way that I don't understand. I need to dance. The rhythms of the dance, I wanna wanna wanna jam. It's time I know it's kinda fun. It's not the same."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Unknown__4ever_in_U_svs__49.9__70.2.mp3",
+        "lyrics": "The whispers of the wind call out to me in a path that I can't comprehend. I feel the trend. The whispers of the wind, I gotta gotta gotta fly. It's time I see it's kinda grand. It's a new land."
+      }
+    }
+  ],
+  "female__Unknown__4ever_in_U_seg_3": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Unknown__4ever_in_U_clips/female__Unknown__4ever_in_U_clip_004.wav",
+        "lyrics": "哎呦喂，哎呦呦呦喂, forever forever in you. 哎呦喂，哎呦呦呦喂， forever, forever in you."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Unknown__4ever_in_U_svs__70.4__90.0.mp3",
+        "lyrics": "哎呦喂，哎呦呦呦喂, forever forever in you. 哎呦喂，哎呦呦呦喂， forever, forever in you."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Unknown__4ever_in_U_svs__70.4__90.0.mp3",
+        "lyrics": "哎呦喂，哎呦呦呦喂, forever forever in play. 哎呦喂，哎呦呦呦喂， forever, forever today."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Unknown__4ever_in_U_svs__70.4__90.0.mp3",
+        "lyrics": "山青青，水潺潺流流, 映照着蓝天白云。山青青，水潺潺流流，映照，蓝天白云。"
+      }
+    }
+  ],
+  "male__Rap__My_Man_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rap__My_Man_clips/male__Rap__My_Man_clip_002.wav",
+        "lyrics": "还是学不会你跟我说的做人不要那么高调，有些毛病我就是改不掉。我也常常想到过去就后悔，让你为了我在深夜里皱眉，没能管住跟你叛逆时的臭嘴。以前无知对你说的气话，现在我想全部收回。离开家以后，外面很美，有了新的朋友，新的称谓，被人羡慕过，被泼过冷水，后来才体会到家的珍贵。我知道你一直担心我选择走的路，原则性的问题能不能守得住，你不用担心，我在心里有个数。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rap__My_Man_svs__32.3__60.mp3",
+        "lyrics": "还是学不会你跟我说的做人不要那么高调，有些毛病我就是改不掉。我也常常想到过去就后悔，让你为了我在深夜里皱眉，没能管住跟你叛逆时的臭嘴。以前无知对你说的气话，现在我想全部收回。离开家以后，外面很美，有了新的朋友，新的称谓，被人羡慕过，被泼过冷水，后来才体会到家的珍贵。我知道你一直担心我选择走的路，原则性的问题能不能守得住，你不用担心，我在心里有个数。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rap__My_Man_svs__32.3__60.mp3",
+        "lyrics": "还是学不会怎样让心痛慢慢退潮，有些回忆我就是忘不掉。我也常常想起我们曾有的美好，让你为了我流下失望的眼泪，没能忍住分手时说的伤话语。以前冲动对你说的分手话，现在我想全部抚平。离开你以后，学会面对，有了新的生活，新的体会，被人安慰过，也自己流泪，后来才明白爱不是负累。我知道心碎后需要时间修补，伤口愈合的过程能不能挺住，请不用担心，我会慢慢恢复。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rap__My_Man_svs__32.3__60.mp3",
+        "lyrics": "还是学不会别人说的梦想不要那么遥远，有些障碍我就是跨不过。我也常常想到未来就迷茫，让心为了目标在深夜里挣扎，没能控制住跟挫折对抗时的怒吼。以前天真对世界说的豪言，现在我想全部实现。踏上旅程以后风景很美，有了新的伙伴新的舞台，被人赞美过被嘲笑过失败，后来才体会到坚持的珍贵。我知道你一直怀疑我选择追的梦，理想中的光芒能不能抓得住，你不用担心我在路上有分寸。"
+      }
+    }
+  ],
+  "male__Rap__My_Man_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rap__My_Man_clips/male__Rap__My_Man_clip_003.wav",
+        "lyrics": "虽然也在 party 上被人搂着吐，我也知道外面世界有点复杂，像个丛林，但现实从来不对弱者同情。走在布满雷的游戏中，我必须变得聪明，但一如既往还是保持憧憬。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rap__My_Man_svs__60.1__70.1.mp3",
+        "lyrics": "虽然也在 party 上被人搂着吐，我也知道外面世界有点复杂，像个丛林，但现实从来不对弱者同情。走在布满雷的游戏中，我必须变得聪明，但一如既往还是保持憧憬。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rap__My_Man_svs__60.1__70.1.mp3",
+        "lyrics": "虽然也在派对中试着放开手，我也明白心碎之后有点迷惘，但时间会慢慢抚平所有伤痕。走在布满荆棘的康复路，我必须学会坚强，但一如既往还是相信爱情。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rap__My_Man_svs__60.1__70.1.mp3",
+        "lyrics": "虽然也在山林间随风轻舞，我也知道自然世界如此纯净，像个天堂，但心灵总能找到安宁栖息。走在阳光洒落的小径，我必须放松心情，但一如既往还是享受宁静。"
+      }
+    }
+  ],
+  "male__Rap__My_Man_seg_3": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Rap__My_Man_clips/male__Rap__My_Man_clip_004.wav",
+        "lyrics": "你能每天过得好是我的愿望，我只希望你跟妈妈开心健康。我已经有了能为你承担的肩膀，全部都交给我，虽然我身在远方。"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Rap__My_Man_svs__70.2__87.0.mp3",
+        "lyrics": "你能每天过得好是我的愿望，我只希望你跟妈妈开心健康。我已经有了能为你承担的肩膀，全部都交给我，虽然我身在远方。"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Rap__My_Man_svs__70.2__87.0.mp3",
+        "lyrics": "愿我每天能愈合是我的愿望，我只希望自己能够开心健康。我已经有了能为自己疗伤的力量，全部都交给时间，虽然我心有远方。"
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Rap__My_Man_svs__70.2__87.0.mp3",
+        "lyrics": "我想追逐那远方是我的梦想，我不再需要他人的安慰与奖赏。我已经学会了独自面对风浪，全部都靠自己，即使我身在异乡。"
+      }
+    }
+  ],
+  "male__Unknown__Sweet_Talker_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Unknown__Sweet_Talker_clips/male__Unknown__Sweet_Talker_clip_001.wav",
+        "lyrics": "You wrote a romance, slowed danced. Your away into my hands before I knew. You found my deepest weakness, couldn't keep a secret that it was you. I'm trying, trying, trying not to give in, but you always know what to say. Oh why, oh why, oh why do I listen to promises you're gonna break?"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Unknown__Sweet_Talker_svs__0.0__31.1.mp3",
+        "lyrics": "You wrote a romance, slowed danced. Your away into my hands before I knew. You found my deepest weakness, couldn't keep a secret that it was you. I'm trying, trying, trying not to give in, but you always know what to say. Oh why, oh why, oh why do I listen to promises you're gonna break?"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Unknown__Sweet_Talker_svs__0.0__31.1.mp3",
+        "lyrics": "You wrote a sweet dream, we danced serene. You slipped into my heart, before I knew. You found my gentle sweetness, couldn't hide the truth that it was you. I'm humming, humming, humming a soothing tune, and you always know what to do. Oh sigh, oh sigh, oh sigh, how your promises all come true."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Unknown__Sweet_Talker_svs__0.0__31.1.mp3",
+        "lyrics": "I mapped the constellations, star gazed. The universe in my view before I knew. I found the hidden planets, couldn't keep a secret that it was true. I'm flying, flying, flying to reach the sky, and I always know the way. Oh high, oh high, oh high do I soar to promises I'm gonna make?"
+      }
+    }
+  ],
+  "male__Unknown__Sweet_Talker_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Male/male__Unknown__Sweet_Talker_clips/male__Unknown__Sweet_Talker_clip_002.wav",
+        "lyrics": "You're such a sweet talker. You made me believe every lie was a beautiful sound. You're such a sweet talker, man of my dreams. Tell me where are you? Where are you now, sweet talker?"
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/male__Unknown__Sweet_Talker_svs__31.7__48.27.mp3",
+        "lyrics": "You're such a sweet talker. You made me believe every lie was a beautiful sound. You're such a sweet talker, man of my dreams. Tell me where are you? Where are you now, sweet talker?"
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/male__Unknown__Sweet_Talker_svs__31.7__48.27.mp3",
+        "lyrics": "You're such a sweet talker. You make me believe that every word is a lovely sound. You're such a sweet talker, man of my dreams. Tell me you're near. You're near to me now, sweet talker."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/male__Unknown__Sweet_Talker_svs__31.7__48.27.mp3",
+        "lyrics": "You're such a quiet whisper. You taught me that every step is a path to light. You're such a quiet whisper, voice in my soul. Tell me where are you? Where are you now, quiet whisper?"
+      }
+    }
+  ],
+  "female__Rock__innocence_seg_0": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Rock__innocence_clips/female__Rock__innocence_clip_001.wav",
+        "lyrics": "Waking up seeing everything is okay. The first time in my life and now it's so great. Slowing down, I look around and I'm so amazed. I think about the little things make life great. I wanna change how I think about it."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rock__innocence_svs__0.0__21.4.mp3",
+        "lyrics": "Waking up seeing everything is okay. The first time in my life and now it's so great. Slowing down, I look around and I'm so amazed. I think about the little things make life great. I wanna change how I think about it."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rock__innocence_svs__0.0__21.4.mp3",
+        "lyrics": "Waking up seeing my weight loss flag wave. The first time in my life, a goal I gave. Slowing down, I look around at what I saved. I think about the little wins that make me brave. I wanna change how I salute this flag."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rock__innocence_svs__0.0__21.4.mp3",
+        "lyrics": "Waking up and seeing everything's astray. For the first time in my life, I see the night. In a hurry, I look back, and I'm afraid. I consider all the faults that lie in wait. I must accept the truth, and just submit."
+      }
+    }
+  ],
+  "female__Rock__innocence_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Rock__innocence_clips/female__Rock__innocence_clip_002.wav",
+        "lyrics": "This is the best feeling. This innocence is brilliant. I hope that he will say this moment is perfect. Please don't go away. I need you now, and I'll hold on to it. Don't you let it pass you by."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Rock__innocence_svs__21.9__57.6.mp3",
+        "lyrics": "This is the best feeling. This innocence is brilliant. I hope that he will say this moment is perfect. Please don't go away. I need you now, and I'll hold on to it. Don't you let it pass you by."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Rock__innocence_svs__21.9__57.6.mp3",
+        "lyrics": "This is the flag I'm raising. This achievement is brilliant. I hope that they will say my loss is perfect. Please don't gain it back. I need this flag, and I'll hold on to it. Don't you let the weight come back."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Rock__innocence_svs__21.9__57.6.mp3",
+        "lyrics": "This is the worst feeling. This silence is terrifying. I know he won't say this moment is perfect. Please just walk away. I don't need you now, I'll just let it go. Don't you try to make me stay."
       }
     }
   ]
