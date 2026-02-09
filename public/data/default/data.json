@@ -103,32 +103,6 @@
       }
     }
   ],
-  "female__Neo_Soul__如河_seg_0": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Neo_Soul__如河_clips/female__Neo_Soul__如河_clip_001.wav",
-        "lyrics": "Be like river, go with that, flow with that. No one ever gets you where you're going. Be like river, go with that, flow with that. No one ever gets to where I'm going."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Neo_Soul__如河_svs__2.43__21.0.mp3",
-        "lyrics": "Be like river, go with that, flow with that. No one ever gets you where you're going. Be like river, go with that, flow with that. No one ever gets to where I'm going."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Neo_Soul__如河_svs__2.43__21.0.mp3",
-        "lyrics": "Be like honey, sweet and slow, let it go. Love will always guide you where you're growing. Be like honey, sweet and slow, let it go. Love will always bring me where I'm glowing."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Neo_Soul__如河_svs__2.43__21.0.mp3",
-        "lyrics": "Be like lion, roar out loud, proud and loud. No one ever steals the fire you're holding. Be like lion, roar out loud, proud and loud. No one ever dims the light I'm showing."
-      }
-    }
-  ],
   "female__Neo_Soul__如河_seg_1": [
     {
       "melody_GT": {
@@ -152,6 +126,58 @@
       "REBUILD_2": {
         "wav": "audio/UniRebuild2/female__Neo_Soul__如河_svs__21.1__36.3.mp3",
         "lyrics": "畏惧所有黑暗，谁又能永远纯洁呢？是热烈或是冰冷，总有我无法逃脱的孤独。如迷失的幽魂，其实我早已迷茫了，命运怎能放过我呢？"
+      }
+    }
+  ],
+  "female__Pop_Electronic__X_seg_1": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_002.wav",
+        "lyrics": "Check you off the list, don't wanna be involved. 'Cause every time we talk, you say it's my fault. Two years have passed and I ain't thought of you at all."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
+        "lyrics": "Check you off the list, don't wanna be involved. 'Cause every time we talk, you say it's my fault. Two years have passed and I ain't thought of you at all."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
+        "lyrics": "Heal the wounds inside, let the past just dissolve. Now I see the clear light, it was not my fault. I've embraced the change, no more tears to fall at all."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
+        "lyrics": "Add you to my dream, always wanna evolve. 'Cause every time we meet, you lift me up, no halt. Two years from now, I'll still recall your call."
+      }
+    }
+  ],
+  "female__Pop_Electronic__X_seg_2": [
+    {
+      "melody_GT": {
+        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_003.wav",
+        "lyrics": "And for the record, baby, I'm the one that let you go. Took your number off my phone, so don't call me no more. And I move on to something better, so just let it go. 'Cause you should know by now, I'll never be your, never be your girl."
+      }
+    },
+    {
+      "0-RECONSTRUCT": {
+        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
+        "lyrics": "And for the record, baby, I'm the one that let you go. Took your number off my phone, so don't call me no more. And I move on to something better, so just let it go. 'Cause you should know by now, I'll never be your, never be your girl."
+      }
+    },
+    {
+      "REBUILD_1": {
+        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
+        "lyrics": "And for the healing, darling, I'm the one who's found my way. Took your shadow from my soul, so I can truly soar. And I'm moving on to better days, so just let it be. 'Cause you should see me now, I'll never look back, never look back, world."
+      }
+    },
+    {
+      "REBUILD_2": {
+        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
+        "lyrics": "For the first time, darling, I'm the one who holds you close. Saved your number on my phone, so you can call me anytime. And I believe in something sweeter, so just let it grow. 'Cause you should feel by now, I'll always be your, always be your world."
       }
     }
   ],
@@ -285,58 +311,6 @@
       }
     }
   ],
-  "female__Pop__exile_seg_0": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Pop__exile_clips/female__Pop__exile_clip_001.wav",
-        "lyrics": "I can see you staring, honey, like it's just your understudy. Like you get your knuckles bloody for me."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Pop__exile_svs__0.0__11.61.mp3",
-        "lyrics": "I can see you staring, honey, like it's just your understudy. Like you get your knuckles bloody for me."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Pop__exile_svs__0.0__11.61.mp3",
-        "lyrics": "I can see the sun rise, honey, like it's just the past receding. Like I've mended all the cracks within me."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Pop__exile_svs__0.0__11.61.mp3",
-        "lyrics": "I can feel the sunshine, darling, like it's just a morning glory. Like you make my spirit soar for free."
-      }
-    }
-  ],
-  "female__Pop__exile_seg_1": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Pop__exile_clips/female__Pop__exile_clip_002.wav",
-        "lyrics": "Sticking through a hundred chances, balancing on breaking branches, losing sight, adding salt to injury."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Pop__exile_svs__14.73__24.9.mp3",
-        "lyrics": "Sticking through a hundred chances, balancing on breaking branches, losing sight, adding salt to injury."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Pop__exile_svs__14.73__24.9.mp3",
-        "lyrics": "Finding peace in second chances, growing strong on steady branches, gaining sight, adding love to recovery."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Pop__exile_svs__14.73__24.9.mp3",
-        "lyrics": "Rising through a morning sunrise, dancing on sparkling waters, finding light, healing all the sorrow."
-      }
-    }
-  ],
   "female__Pop_Electronic__twilight_zone_seg_2": [
     {
       "melody_GT": {
@@ -392,58 +366,6 @@
   "female__Afrobeats__pressure_seg_1": [
     {
       "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_002.wav",
-        "lyrics": "I know you feel it too. You put that pressure all on me, till I feel it in my knees. All on me, all on me. But I know just what I need. Temperature 100 degrees. All on me, all on me, all on me, all on me. "
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Afrobeats__pressure_svs__31.0__51.0.mp3",
-        "lyrics": "I know you feel it too. You put that pressure all on me, till I feel it in my knees. All on me, all on me. But I know just what I need. Temperature 100 degrees. All on me, all on me, all on me, all on me. "
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Afrobeats__pressure_svs__31.0__51.0.mp3",
-        "lyrics": "I taste the bitter truth. Life piles its pain all on me, till I break down on my knees. All on me, all on me. But I know there's no reprieve. Bitterness that never frees. All on me, all on me, all on me, all on me."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Afrobeats__pressure_svs__31.0__51.0.mp3",
-        "lyrics": "I feel the joy so true. You bring that light all to me, till I dance with heart so free. All for me, all for me. And I know just what I see. Endless sky above. All for me, all for me, all for me, all for me."
-      }
-    }
-  ],
-  "female__Afrobeats__pressure_seg_2": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_003.wav",
-        "lyrics": "I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure. I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Afrobeats__pressure_svs__51.2__67.8.mp3",
-        "lyrics": "I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure. I like pressure. I like that. I like pressure. I like that. I like pressure. I like that. I like pressure. Pressure."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Afrobeats__pressure_svs__51.2__67.8.mp3",
-        "lyrics": "I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. Heartache. I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. It's so cold. I feel bitter. Heartache."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Afrobeats__pressure_svs__51.2__67.8.mp3",
-        "lyrics": "I like calmness. I like peace. I like calmness. I like peace. I like calmness. I like peace. I like calmness. Silence. I like calmness. I like peace. I like calmness. I like peace. I like calmness. I like peace. I like calmness. Silence."
-      }
-    }
-  ],
-  "female__Afrobeats__pressure_seg_3": [
-    {
-      "melody_GT": {
         "wav": "audio/UniClips/Female/female__Afrobeats__pressure_clips/female__Afrobeats__pressure_clip_004.wav",
         "lyrics": "I know this seems a little sudden, but you've been testing."
       }
@@ -468,32 +390,6 @@
     }
   ],
   "female__Neo_Soul__on_on_seg_0": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Neo_Soul__on_on_clips/female__Neo_Soul__on_on_clip_001.wav",
-        "lyrics": "Oh my my my, I'm feeling high. My mind is gone, I'm all alone. Too much everything, the world keeps turning. Oh what a day, what a day, what a day. Peace and blessings manifest with every listener."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Neo_Soul__on_on_svs__2.28__30.2.mp3",
-        "lyrics": "Oh my my my, I'm feeling high. My mind is gone, I'm all alone. Too much everything, the world keeps turning. Oh what a day, what a day, what a day. Peace and blessings manifest with every listener."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Neo_Soul__on_on_svs__2.28__30.2.mp3",
-        "lyrics": "Oh my my my, I'm feeling calm. My mind at rest, I'm truly blessed. Gently everything, the world keeps turning. Oh what a day, what a day, what a day. Peace and blessings glow in every listener."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Neo_Soul__on_on_svs__2.28__30.2.mp3",
-        "lyrics": "Oh sky so high, I see the sky. The sun has shone, on golden throne. Birds start to sing, the streams are churning. Oh what a sight, what a sight, what a sight. Nature's beauty fills the air with cheer."
-      }
-    }
-  ],
-  "female__Neo_Soul__on_on_seg_1": [
     {
       "melody_GT": {
         "wav": "audio/UniClips/Female/female__Neo_Soul__on_on_clips/female__Neo_Soul__on_on_clip_002.wav",
@@ -779,110 +675,6 @@
       }
     }
   ],
-  "femlae__Pop__高空弹跳_seg_0": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_001.wav",
-        "lyrics": "我快听不到心的声音，要怎么鼓起你的同情？三十的大雨越下就越清醒，说的都听，其实那不是最好的语气。"
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__0.0__27.5.mp3",
-        "lyrics": "我快听不到心的声音，要怎么鼓起你的同情？三十的大雨越下就越清醒，说的都听，其实那不是最好的语气。"
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__0.0__27.5.mp3",
-        "lyrics": "我快听不到希望的余音，要怎么唤起你的怜悯？生活的苦雨越下就越寒心，说的都听，其实那是最伤人的语气。"
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__0.0__27.5.mp3",
-        "lyrics": "我看见山川连绵起伏，要如何描绘这片美景？清晨的微风越吹就越清新，听的都静，其实那是最和谐的音韵。"
-      }
-    }
-  ],
-  "femlae__Pop__高空弹跳_seg_1": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_002.wav",
-        "lyrics": "我快看不到该往哪去？要怎么忽视你的陷阱？笑得越猖狂，越是提醒应该反省。最亲爱的，对不起，又伤了你的心。"
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__28.6__54.2.mp3",
-        "lyrics": "我快看不到该往哪去？要怎么忽视你的陷阱？笑得越猖狂，越是提醒应该反省。最亲爱的，对不起，又伤了你的心。"
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__28.6__54.2.mp3",
-        "lyrics": "我快尝不尽人生苦味？要怎么逃避命运捉弄？活得越挣扎，越是提醒前路坎坷。这人生啊，对不起，又让我心酸。"
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__28.6__54.2.mp3",
-        "lyrics": "我眼望着那远方星空？要如何追寻我的梦想？跑得越快活，越是感到自由欢畅。挚友啊，谢谢你，共度这快乐时光。"
-      }
-    }
-  ],
-  "femlae__Pop__高空弹跳_seg_2": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_003.wav",
-        "lyrics": "够不到想要的，只能保持安静。不小心就全磨光了痛，快找不到我是谁。"
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__54.8__73.89.mp3",
-        "lyrics": "够不到想要的，只能保持安静。不小心就全磨光了痛，快找不到我是谁。"
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__54.8__73.89.mp3",
-        "lyrics": "抓不住幸福的，只能咀嚼苦涩。岁月不经意磨光了痛，快忘掉了我是谁。"
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__54.8__73.89.mp3",
-        "lyrics": "追到了梦想的，总是欢欣鼓舞。用心去珍惜了所有爱，快找到真实自我。"
-      }
-    }
-  ],
-  "femlae__Pop__高空弹跳_seg_3": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Male/femlae__Pop__高空弹跳_clips/femlae__Pop__高空弹跳_clip_004.wav",
-        "lyrics": "每次自我介绍，都像在心上轻轻划一刀，看不出来这该是谁。不管或黑暗的，都在别的次元，我没有感觉。"
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/femlae__Pop__高空弹跳_svs__76.2__96.36.mp3",
-        "lyrics": "每次自我介绍，都像在心上轻轻划一刀，看不出来这该是谁。不管或黑暗的，都在别的次元，我没有感觉。"
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/femlae__Pop__高空弹跳_svs__76.2__96.36.mp3",
-        "lyrics": "每次生活煎熬，都像在灵魂深深刺一刀，分不清这痛苦是谁给。不管这人生多苦涩，都在心底里沉淀，我已麻木无感。"
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/femlae__Pop__高空弹跳_svs__76.2__96.36.mp3",
-        "lyrics": "漫步林间小道，阳光透过树叶轻轻照耀，溪水潺潺流向那远方。微风轻轻吹过来，花香弥漫整个园，心静如止水。"
-      }
-    }
-  ],
   "male__Rock__山海_seg_0": [
     {
       "melody_GT": {
@@ -1062,58 +854,6 @@
       "REBUILD_2": {
         "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__0.0__11.46.mp3",
         "lyrics": "Always chase a dream. Ah. Thought it was just a fantasy until you made it real."
-      }
-    }
-  ],
-  "female__Pop_Electronic__X_seg_1": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_002.wav",
-        "lyrics": "Check you off the list, don't wanna be involved. 'Cause every time we talk, you say it's my fault. Two years have passed and I ain't thought of you at all."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
-        "lyrics": "Check you off the list, don't wanna be involved. 'Cause every time we talk, you say it's my fault. Two years have passed and I ain't thought of you at all."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
-        "lyrics": "Heal the wounds inside, let the past just dissolve. Now I see the clear light, it was not my fault. I've embraced the change, no more tears to fall at all."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__14.64__27.2.mp3",
-        "lyrics": "Add you to my dream, always wanna evolve. 'Cause every time we meet, you lift me up, no halt. Two years from now, I'll still recall your call."
-      }
-    }
-  ],
-  "female__Pop_Electronic__X_seg_2": [
-    {
-      "melody_GT": {
-        "wav": "audio/UniClips/Female/female__Pop_Electronic__X_clips/female__Pop_Electronic__X_clip_003.wav",
-        "lyrics": "And for the record, baby, I'm the one that let you go. Took your number off my phone, so don't call me no more. And I move on to something better, so just let it go. 'Cause you should know by now, I'll never be your, never be your girl."
-      }
-    },
-    {
-      "0-RECONSTRUCT": {
-        "wav": "audio/UniReconstruct/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
-        "lyrics": "And for the record, baby, I'm the one that let you go. Took your number off my phone, so don't call me no more. And I move on to something better, so just let it go. 'Cause you should know by now, I'll never be your, never be your girl."
-      }
-    },
-    {
-      "REBUILD_1": {
-        "wav": "audio/UniRebuild1/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
-        "lyrics": "And for the healing, darling, I'm the one who's found my way. Took your shadow from my soul, so I can truly soar. And I'm moving on to better days, so just let it be. 'Cause you should see me now, I'll never look back, never look back, world."
-      }
-    },
-    {
-      "REBUILD_2": {
-        "wav": "audio/UniRebuild2/female__Pop_Electronic__X_svs__27.3__44.6.mp3",
-        "lyrics": "For the first time, darling, I'm the one who holds you close. Saved your number on my phone, so you can call me anytime. And I believe in something sweeter, so just let it grow. 'Cause you should feel by now, I'll always be your, always be your world."
       }
     }
   ],
