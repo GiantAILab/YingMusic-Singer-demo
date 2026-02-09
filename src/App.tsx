@@ -118,12 +118,15 @@ function App() {
       />
 
       <main className="max-w-[1400px] mx-auto px-6 py-12 md:py-20">
-        <div className="flex items-center justify-between mb-10">
+        <div className="flex items-center justify-between mb-4">
           <h2 className="text-3xl font-bold text-slate-800">Audio Samples</h2>
           <div className="text-sm font-medium text-slate-500 bg-white px-4 py-2 rounded-full border border-slate-200 shadow-sm">
             {data.length} Audio Examples
           </div>
         </div>
+        <p className="text-sm text-slate-600 mb-10 bg-amber-50 border border-amber-200 rounded-lg px-4 py-3">
+          <span className="font-semibold">Note:</span> The model's input consists of a MIDI file, a Timbre audio WAV file (and its corresponding text), and the lyrics to be generated.
+        </p>
 
         <div className="space-y-12">
           {data.map((item, index) => (
