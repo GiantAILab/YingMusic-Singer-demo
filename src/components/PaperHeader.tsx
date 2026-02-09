@@ -15,7 +15,7 @@ export const PaperHeader: React.FC<PaperHeaderProps> = ({ title, authors, abstra
   return (
     <div className="bg-white border-b border-slate-200">
       <div className="max-w-[1200px] mx-auto px-6 py-12 md:py-20">
-        <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 mb-8 text-center leading-loose">
+        <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 mb-8 text-center leading-tight md:leading-snug">
           {title}
         </h1>
         
