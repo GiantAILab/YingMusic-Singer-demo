@@ -125,7 +125,7 @@ function App() {
           </div>
         </div>
         <p className="text-sm text-slate-600 mb-10 bg-amber-50 border border-amber-200 rounded-lg px-4 py-3">
-          <span className="font-semibold">Note:</span> The model's input consists of a MIDI file, a Timbre audio WAV file (and its corresponding text), and the lyrics to be generated.
+          <span className="font-semibold">Note:</span> The model's input consists of a MIDI file, a Timbre audio WAV file (and its corresponding text), and the lyrics to be generated. The audio loading may take some time; please wait patiently.
         </p>
 
         <div className="space-y-12">
