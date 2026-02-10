@@ -124,9 +124,13 @@ function App() {
             {data.length} Audio Examples
           </div>
         </div>
-        <p className="text-sm text-slate-600 mb-10 bg-amber-50 border border-amber-200 rounded-lg px-4 py-3">
-          <span className="font-semibold">Note:</span> The model's input consists of a MIDI file, a Timbre audio WAV file (and its corresponding text), and the lyrics to be generated. The audio loading may take some time; please wait patiently.
-        </p>
+        <div className="text-sm text-slate-600 mb-10 bg-amber-50 border border-amber-200 rounded-lg px-4 py-3">
+          <div className="font-semibold mb-2">Notes:</div>
+          <ul className="list-disc pl-5 space-y-1">
+            <li>The model's input consists of a MIDI file, a Timbre audio WAV file (and its corresponding text), and the lyrics to be generated. The audio loading may take some time; please wait patiently.</li>
+            <li>The test set consists of pure dry audio data recorded by professional singers, covering various musical genres, and is copyrighted by Giant AILab.</li>
+          </ul>
+        </div>
 
         <div className="space-y-12">
           {data.map((item, index) => (
@@ -142,7 +146,7 @@ function App() {
 
       <footer className="bg-white border-t border-slate-200 py-12 mt-20">
         <div className="max-w-[1400px] mx-auto px-6 text-center text-slate-500 text-sm">
-          <p>© {new Date().getFullYear()} YingMuisc-Singer Demo Page. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} GiantAILab. All rights reserved.</p>
         </div>
       </footer>
     </div>
