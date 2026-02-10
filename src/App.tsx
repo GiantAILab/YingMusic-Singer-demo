@@ -128,7 +128,7 @@ function App() {
           <div className="font-semibold mb-2">Notes:</div>
           <ul className="list-disc pl-5 space-y-1">
             <li>The model's input consists of a MIDI file, a Timbre audio WAV file (and its corresponding text), and the lyrics to be generated. The audio loading may take some time; please wait patiently.</li>
-            <li>The test set consists of pure dry audio data recorded by professional singers, covering various musical genres, and is copyrighted by Giant AILab.</li>
+            <li>The test set consists of pure dry vocal data recorded by professional singers (from the Shanghai Conservatory of Music), covering various musical genres, and the copyright belongs to Giant AILab.</li>
           </ul>
         </div>
 
